@@ -1,0 +1,79 @@
+
+body {
+	background: url(../img/bg.jpg) center center no-repeat #fff;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+header{
+	background: url(../img/log.png);
+	background-repeat: no-repeat;
+	width:992px;
+	height: 200px;
+	margin: auto;
+}
+
+menu{margin:auto;
+	width:992px;
+	background: #fff url(../img/footer.jpg) 0 0 no-repeat;
+	height: 75px;}
+
+
+.btn-primary {
+	margin-top: 5px;
+	color: #fff;
+    background-color: #B22222;
+    border-color: #8B0000;}
+.base{
+	margin:auto;
+	width:992px;
+	background: url(../img/podl.png) center center no-repeat #fff;
+    background-size: cover;
+
+}
+
+.a {
+    font-size: 1.9em;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+
+.b {   
+	 text-indent: 15px;
+	 margin-top: 20px;
+	 font-size: 1.0em;
+	padding-left: 50px;
+	padding-right: 50px;
+    padding-top: 20px;}
+.b ul {padding: 5px;}
+.b li{padding: 10px;}
+.c {   
+	text-indent: 15px;
+	margin-top: 20px;
+	font-size: 1.2em;
+	padding-left: 50px;
+	padding-right: 50px;
+    padding-top: 20px;}
+
+ p{padding: auto}
+
+
+footer{margin:auto;
+	margin-top: -15px;
+	margin-bottom: 20px;
+	width:992px;
+	height: 65px;
+	background: #fff url(../img/footer.jpg) 0 0 no-repeat;}
+
+.f{ 
+	text-align: center;
+	padding-top: 15px;
+	width:992px;
+	font-weight: 600;
+	font-size: 1.2em;
+	color:#000;
+text-shadow: 1px 1px 2px white, 0 0 1em white, 0 0 0.2em white;;}
